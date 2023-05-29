@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [PETER]
+# #100DaysOfCode Log - Round 1 - [binarystone]
 
 The log of my #100DaysOfCode challenge. Started on [].
 
