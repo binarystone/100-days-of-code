@@ -5,7 +5,7 @@
 ### *I WILL CODE FOR AT LEAST AN HOUR EVERY DAY FOR THE NEXT 100 DAYS.*
 
 #### Start Date
-SEPTEMBER 5, 2022
+MAY 28, 2023
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
