@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [PETER]
 
-The log of my #100DaysOfCode challenge. Started on [SEPTEMBER 5, 2022].
+The log of my #100DaysOfCode challenge. Started on [].
 
 ## Log
 
